@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+h2{
+    color: green;
+}
+span{
+    background-color: yellow;
+}
+ .list{
+    color: brown;
+    letter-spacing: 7px;
+}
+.p1{
+    color: brown;
+    font-size: 19px;
+}
+.p2{
+    color: brown;
+    font-size: 10px;
+}
+.p3{
+    font-size: 15px;
+    color: brown;
+    font-style: italic;
+}
+.visit, a{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: yellow;
+    width: 230px;
+}
